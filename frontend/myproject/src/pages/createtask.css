@@ -1,0 +1,182 @@
+.box1234{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+h2{
+    text-align: center;
+    margin-top: 60px;
+}
+label{
+    color: black;
+}
+input{
+    margin-left: 10px;
+    background-color: white;
+    color: black;
+    border: none;
+}
+select{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.inputboxx1{
+    padding: 15px 50px;
+    border-radius: 5px;
+    background-color:white;
+    border: none;
+}
+
+.main23{
+    width: 100vw;
+}
+.container231{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.container23{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    width: 85vw;
+    height: 50px;
+    border-radius: 15px;
+}
+.container251{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+.container25{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    height: 40px;
+    width: 40vw;
+    border-radius: 15px;
+}
+
+.container27{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+}
+.inputboxx27{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: space-evenly;
+    background: rgb(255, 255, 255);
+    width: 50vw;
+    height: 40vh;
+    margin-top: 30px;
+    border-radius: 15px;
+    color: black;
+}
+.container28{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.btnn28{
+    padding: 5px 25px;
+    margin-left: 20px;
+    background-color: rgb(252, 247, 247);
+    border: none;
+    border-radius: 5px;
+    color: black;
+}
+.btnn28:hover{
+    background-color: rgb(46, 222, 46);
+}
+
+.modal-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
+
+  }
+  
+  .modal{
+    width: 40vh;
+    height: 20vh;
+    border-radius: 10px;
+    padding:  40px;
+    text-align: center;
+    background-color: rgb(255, 251, 251);
+    margin-top: 10px;
+
+  }
+  .box4{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.box4btn{
+    padding: 3px;
+}
+.box5{
+    margin: 0;
+    bottom: 0;
+}
+.modal-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    height: 100%;
+}
+.modal{
+    width:auto;
+    height: auto;
+    background-color: rgba(241, 240, 240, 0.689);
+    border-radius: 5px;
+    padding:  40px;
+    transition: 0.5 ease-in-out;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+  }
+.modal-btn{
+    padding:5px 5px;
+    margin-left: 5px;
+
+}  
+.modal1{
+    display: flex;
+
+}
+.closeicon{
+    font-size: 30px;
+    color:red;
+}
+.modalbtn1{
+    margin-right: 10px;
+    background-color: blue;
+
+}
+.select-containerbtn{
+    margin-left: 10px;
+    background-color: rgb(232, 147, 19);
+}

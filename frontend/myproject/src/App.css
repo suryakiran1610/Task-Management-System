@@ -1,0 +1,34 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainbody {
+    width: 100%;
+    height: 100%;
+}
+
+.tskhead {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.tsklogoutbtn{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.tsklogoutbtn button{
+    background-color: rgb(212, 49, 49);
+    color: white;
+}
+
